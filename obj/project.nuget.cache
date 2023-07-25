@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "58jekt72y/LYy+jMCy3OHjvsrzeuEOBjt6wkFjzUyaFf/eo2wKMs4gB68FDGdonijRlnetu3QGLiig0maGh76A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glaucionei.santos\\Downloads\\Teste de C# da Ailos (2)\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glaucionei.santos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\glaucionei.santos\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\glaucionei.santos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\glaucionei.santos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
